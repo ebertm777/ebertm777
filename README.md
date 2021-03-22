@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Eber Torres Macedo from Brazil. 
+My name is Eber Torres Macedo, from Brazil. 
 
 I’m currently learning front-end development and this github is where I share my learning. 🌱
 
