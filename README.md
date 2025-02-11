@@ -15,4 +15,5 @@ You also can find me at:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MacedoEber)](https://twitter.com/MacedoEber)
 
 
-<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+
