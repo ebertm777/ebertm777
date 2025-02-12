@@ -8,7 +8,7 @@ I'm a **front-end developer** passionate about coding and constantly improving m
 
 ### 🚀 What I'm up to:
 - 🔭 Currently focused on leveling up my programming skills, aiming to go **full-stack by the end of 2025**.  
-- 🌱 Learning **JavaScript, React, and Node.js** to build awesome web applications.  
+- 💻 Using **JavaScript, React, and Node.js** to build awesome web applications.  
 - 📫 Want to connect? Reach me at **eber.tmacedo@gmail.com**  
 
 ---
