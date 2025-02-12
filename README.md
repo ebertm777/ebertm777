@@ -18,7 +18,7 @@ I'm a **front-end developer** passionate about coding and constantly improving m
 
 ### 🌎 Where to find me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebermacedo/)
+- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebermacedo/)
 
 ---
 
