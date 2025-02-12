@@ -12,7 +12,7 @@ I'm a **front-end developer** passionate about coding and constantly improving m
 - 📫 Want to connect? Reach me at **eber.tmacedo@gmail.com**
 
 ##### 🌱 What am I studying right now.
-- Next.js
+- [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
 
 ---
 
