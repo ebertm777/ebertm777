@@ -11,12 +11,12 @@ I'm a **front-end developer** passionate about coding and constantly improving m
 - 💻 Using **JavaScript, React, and Node.js** to build awesome web applications.  
 - 📫 Want to connect? Reach me at **eber.tmacedo@gmail.com**
 
-#### 🌱 What am I studying right now.
+##### 🌱 What am I studying right now.
 - Next.js
 
 ---
 
-## 🌎 Where to find me:
+### 🌎 Where to find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebermacedo/)
 
