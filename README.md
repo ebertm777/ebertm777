@@ -2,7 +2,7 @@
 
 I'm **Eber Torres Macedo** from Brazil. 🇧🇷  
 
-I'm a **front-end developer** passionate about coding and constantly improving my skills. This GitHub is where I share my projects, experiments, and code snippets.  
+I'm a **front-end engineer** passionate about coding and constantly improving my skills. This GitHub is where I share my projects, experiments, and code snippets.  
 
 🎮 **In my free time**, you'll probably find me playing video games, watching movies, or listening to music.  
 
