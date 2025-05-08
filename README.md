@@ -9,7 +9,7 @@ I'm a **front-end engineer** passionate about coding and constantly improving my
 ### 🚀 What I'm up to:
 - 🔭 Currently focused on leveling up my programming skills, aiming to go **full-stack by the end of 2025**.  
 - 💻 Using **JavaScript, React and Node.js** to build awesome web applications.  
-- 📫 Want to connect? Reach me at [Linkedin](https://www.linkedin.com/in/ebermacedo/) Or **eber.tmacedo@gmail.com**
+- 📫 Want to connect? Reach me at [Linkedin](https://www.linkedin.com/in/ebermacedo/) or **eber.tmacedo@gmail.com**
 
 ##### 🌱 What am I picking up these days?
 [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
