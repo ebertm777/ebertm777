@@ -7,7 +7,7 @@ I'm a **front-end engineer** passionate about coding and constantly improving my
 🎮 **In my free time**, You'll probably find me playing video games, watching Movies, Series, Animes or listening to music..  
 
 ### 🚀 What I'm up to:
-- 🔭 Currently focused on leveling up my programming skills, aiming to go **full-stack by the end of 2025**.  
+- 🔭 Currently focused on leveling up my programming skills, aiming to go **full-stack by the end of 2026**.  
 - 💻 Using **JavaScript, React and Node.js** to build awesome web applications.  
 - 📫 Want to connect? Reach me at [Linkedin](https://www.linkedin.com/in/ebermacedo/) or **eber.tmacedo@gmail.com**
 
